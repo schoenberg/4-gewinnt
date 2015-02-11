@@ -1,4 +1,0 @@
-var m1Design = function() { m1Design = {}; var d="#m1-ForexChart01";var e="ForexChart01";var f="NEVER";var g="_resizing";var h="ajaxPageReloadApproach";var i="css";var j="e0";var k="e1";var l="m1-";var m="m1-ForexChart01-html1";var n="pages";var o="px";var p="root";var q="shouldHideAddressBar";var r="softSpinnerEnabled";
-(function(){var s=function(b){return l+b};var u={"ForexChart01":{"id":e,"anchor_id":d,"resize":function(b,t){var a;var c={};var v;a=c[k]={w:b,h:t,py:0};try{a=c[j]={e:document.getElementById(m),w:0,h:0,py:0,p:c[k]};a.w=Math.max((a.p.w+-0.0)*1,0);a.e.style.height=Math.max((a.p.h+-0.0)*1,0)+o;a.e.style.top=0+-a.p.py+o;a.h=Math.max((a.p.h+-0.0)*1,0);a.p.py=a.p.py+Math.max(Math.max((a.p.h+-0.0)*1,0),0)}catch(w){}}}};m1Design[i]=s;m1Design[n]=u;m1Design[g]={};m1Design[h]=f;m1Design[r]=true;m1Design[q]=
-true;m1Design[p]=function(){return e}})(); return m1Design; }();m1Design.actions={};
-;
